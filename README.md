@@ -36,7 +36,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=PriyankaAsrani12&label=Views&color=blue&style=plastic" alt="PriyankaAsrani12 />
+![](https://komarev.com/ghpvc/?username=PriyankaAsrani12&color=ff69b4)
 
 [![GitHub PriyankaAsrani12l](https://img.shields.io/github/followers/PriyankaAsrani12?label=follow&style=social)](https://github.com/PriyankaAsrani12)
 
