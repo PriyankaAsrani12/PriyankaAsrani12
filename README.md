@@ -36,6 +36,6 @@
 
 
 
-[twitter]: https://twitter.com/PriyankaAsrani12
+[twitter]: https://twitter.com/PriyankaAsrani2
 [instagram]: https://instagram.com/priyanka.asrani.1202
 [linkedin]: https://www.linkedin.com/in/priyanka-asrani-750a501a4
