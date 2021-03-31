@@ -1,4 +1,4 @@
-## Hi there, I'm Priyanka 👋
+## Hello World, I'm Priyanka 👋
 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on anything you want me to!
