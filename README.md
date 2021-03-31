@@ -30,12 +30,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-<details>
-  GitHub Stats
 
-  <img align="left" alt="Priyanka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PriyankaAsrani12" />
+### Github Stats:
+ <img align="left" alt="Priyanka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PriyankaAsrani12" />
 
-</details>
 
 
 [twitter]: https://twitter.com/PriyankaAsrani12
