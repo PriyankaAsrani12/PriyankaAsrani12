@@ -34,7 +34,11 @@
 ### Github Stats:
  <img align="left" alt="Priyanka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PriyankaAsrani12" />
 
+<br />
 
+<img src="https://komarev.com/ghpvc/?username=PriyankaAsrani12&label=Views&color=blue&style=plastic" alt="PriyankaAsrani12 />
+
+[![GitHub PriyankaAsrani12l](https://img.shields.io/github/followers/PriyankaAsrani12?label=follow&style=social)](https://github.com/PriyankaAsrani12)
 
 [twitter]: https://twitter.com/PriyankaAsrani2
 [instagram]: https://instagram.com/priyanka.asrani.1202
