@@ -1,6 +1,6 @@
 ## Hello World, I'm Priyanka 👋
 
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently developing Python Projects
 - 👯 I’m looking to collaborate on anything you want me to!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to paint and listen to music
